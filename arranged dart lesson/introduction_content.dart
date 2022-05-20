@@ -30,7 +30,12 @@
 /// 30. method overriding
 /// 31. constant constructor
 /// 32. factory constructor
-/// 33. 
-/// 34. 
-/// 35. 
+/// 33. callable class
+/// 34. abstract class 2/mixin
+/// 35. abstract class 3
+/// 36. mixin example 1
+/// 37. mixin example 2
+/// 38.
+/// 39.
+/// 40.
 /// 
