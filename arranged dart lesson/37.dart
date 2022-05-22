@@ -17,6 +17,4 @@ mixin CanWalk on Animal{ // this is a restraint
 class Dog extends Animal with CanWalk{
   int speed = 10;
 }
-class Cat with CanWalk{
-
-}
+//class Cat with CanWalk{

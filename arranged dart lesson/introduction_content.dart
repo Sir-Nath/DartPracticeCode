@@ -35,7 +35,9 @@
 /// 35. abstract class 3
 /// 36. mixin example 1
 /// 37. mixin example 2
-/// 38.
-/// 39.
-/// 40.
-/// 
+/// 38. mixin example practice
+/// 39. synchronous workflows, iterables, sync* genrator functions, yield, yield*
+/// 40. asynchronous workflows, futures example
+/// 41. asynchronous workflows -> future example
+/// 42. asynchronous workflows -> future example, await, async
+/// 43. asynchronous workflows -> future example, stream, async generator function
